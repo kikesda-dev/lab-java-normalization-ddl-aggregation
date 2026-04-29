@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/airline_db.sql" value="9c1ad9d7-e8e1-4f3b-a852-cfed23e65336" />
+    <file url="file://$PROJECT_DIR$/blog_db.sql" value="9c1ad9d7-e8e1-4f3b-a852-cfed23e65336" />
+  </component>
+</project>
